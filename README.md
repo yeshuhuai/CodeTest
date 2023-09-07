@@ -29,13 +29,6 @@ pip3 install -r requirements.txt
 pythonw3 CodeTest.pyw
 ```
 
-### :clipboard:界面介绍
-[超链接名](超链接地址 "超链接title")
-
-
-### :open_file_folder:使用示例
-[超链接名](超链接地址 "超链接title")
-
 
 
 
